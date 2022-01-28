@@ -1,0 +1,32 @@
+*{
+    font-family: "Times New Roman";
+    }
+    body{
+        transform:scale(90%);
+    }
+    a{
+        color:rgb(202, 22, 52);
+    }
+    .middle {width:40%;
+			height: 500px;
+			background-color:rgb(222, 232, 241);
+			padding: 20px;
+			border:4px solid rgb(202, 22, 52);
+			border-radius: 12px;
+			margin:auto;
+            margin-top: 50px;
+            text-align: center;}
+            .home {
+            width: 80px;
+			height: 30px;
+			background-color:rgb(222, 232, 241);
+			padding: 20px;
+			border:4px solid rgb(202, 22, 52);
+			border-radius: 12px;
+			margin:auto;
+            text-align: center;
+            }
+            button{
+                width: 80px;
+                height:40px;
+            }

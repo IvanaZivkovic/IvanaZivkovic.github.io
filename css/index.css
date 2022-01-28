@@ -1,0 +1,11 @@
+body {
+    transform:scale(90%);
+    background-image: url('../img/crystals2.jpg');}
+div {width:60%;
+    height: 700px;
+    background-color:rgb(222, 232, 241); 
+    text-align:center;
+    border:4px solid rgb(202, 22, 52);
+    border-radius: 12px;
+    margin-left: auto; 
+    margin-right: auto;}
